@@ -1,0 +1,12 @@
+.right-side {
+  align-items: right;
+}
+.left-side {
+  align-content: left;
+}
+#form-box {
+  margin: 10px;
+}
+#form-btn {
+  margin: 10px;
+}
